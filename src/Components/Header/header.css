@@ -1,0 +1,21 @@
+.auth-btn-container {
+  margin: 10px 0px;
+}
+.auth-btn-container button {
+  border: none;
+  border-radius: 6px;
+  color: #fff;
+  font-family: lato;
+  font-size: 18px;
+  font-style: normal;
+  outline: none;
+  background-color: #f47321;
+  padding: 7px 45px;
+}
+.login-button {
+  background-color: #292929 !important;
+  padding: 7px 48px;
+}
+hr {
+  margin: 0;
+}
